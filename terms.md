@@ -179,7 +179,7 @@ The Service is operated by:
 
 FOP Glavna Tetiana  
 Registered in Ukraine  
-Contact email: hlavnatanya@gmail.com
+Contact email: vatterb0768@gmail.com
 Payments are processed through Telegram and its payment systems.
 
 ---

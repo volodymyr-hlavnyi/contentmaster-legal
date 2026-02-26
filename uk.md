@@ -138,7 +138,7 @@
 - видалення
 
 Запити надсилайте:
-**hlavnatanya@gmail.com**
+**vatterb0768@gmail.com**
 
 ---
 

@@ -166,7 +166,7 @@ Die fortgesetzte Nutzung gilt als Zustimmung zu den aktualisierten Bedingungen.
 
 Rechtliche Anfragen:
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com
 
 ---
 
@@ -176,7 +176,7 @@ Der Service wird betrieben von:
 
 FOP Glavna Tetiana  
 Registriert in der Ukraine  
-Kontakt: hlavnatanya@gmail.com  
+Kontakt: vatterb0768@gmail.com  
 Zahlungen werden über Telegram und dessen Zahlungssysteme abgewickelt.
 
 ---

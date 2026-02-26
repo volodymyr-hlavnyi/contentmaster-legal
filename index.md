@@ -143,7 +143,7 @@ Depending on your jurisdiction, you may request:
 - deletion of your data
 
 Requests can be sent to:
-hlavnatanya@gmail.com
+vatterb0768@gmail.com
 
 We may verify your Telegram ID before processing requests.
 

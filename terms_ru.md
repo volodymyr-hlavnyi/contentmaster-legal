@@ -125,7 +125,7 @@ ContentMaster предоставляет услуги генерации виз�
 
 ## 13. Контакты
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com
 
 ---
 
