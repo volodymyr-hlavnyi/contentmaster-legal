@@ -16,7 +16,7 @@ If you do not agree with this Policy, please do not use the Service.
 
 ## 1. Who We Are (Data Controller)
 
-The Service is operated primarily from **Ukraine**.
+The Service is operated primarily from **Germany**.
 
 For privacy-related requests, contact:
 **vatterb0768@gmail.com**

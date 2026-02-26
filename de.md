@@ -14,7 +14,7 @@ Wenn Sie dieser Erklärung nicht zustimmen, nutzen Sie den Service bitte nicht.
 
 ## 1. Verantwortlicher
 
-Der Service wird hauptsächlich aus der **Ukraine** betrieben.
+Der Service wird hauptsächlich aus der **Deutschland** betrieben.
 
 Kontakt für Datenschutzanfragen:
 **vatterb0768@gmail.com**
