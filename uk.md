@@ -17,7 +17,7 @@
 Сервіс керується переважно з території **України**.
 
 З питань конфіденційності звертайтесь:
-**hlavnatanya@gmail.com**
+**vatterb0768@gmail.com**
 
 ---
 
@@ -171,4 +171,4 @@
 
 ## 12. Контакти
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com

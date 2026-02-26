@@ -169,7 +169,7 @@ Continued use of the Service after updates constitutes acceptance.
 
 For legal inquiries:
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com
 
 ---
 

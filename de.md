@@ -17,7 +17,7 @@ Wenn Sie dieser Erklärung nicht zustimmen, nutzen Sie den Service bitte nicht.
 Der Service wird hauptsächlich aus der **Ukraine** betrieben.
 
 Kontakt für Datenschutzanfragen:
-**hlavnatanya@gmail.com**
+**vatterb0768@gmail.com**
 
 ---
 
@@ -135,7 +135,7 @@ Sie können beantragen:
 - Löschung
 
 Kontakt:
-**hlavnatanya@gmail.com**
+**vatterb0768@gmail.com**
 
 ---
 
@@ -168,4 +168,4 @@ Fortgesetzte Nutzung bedeutet Zustimmung.
 
 ## 12. Kontakt
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com

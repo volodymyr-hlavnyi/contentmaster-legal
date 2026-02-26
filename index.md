@@ -19,7 +19,7 @@ If you do not agree with this Policy, please do not use the Service.
 The Service is operated primarily from **Ukraine**.
 
 For privacy-related requests, contact:
-**hlavnatanya@gmail.com**
+**vatterb0768@gmail.com**
 
 ---
 
@@ -180,4 +180,4 @@ Continued use of the Service after changes constitutes acceptance of the updated
 
 For privacy-related inquiries:
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com

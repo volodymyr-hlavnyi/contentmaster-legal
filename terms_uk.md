@@ -134,7 +134,7 @@ ContentMaster надає послуги візуалізації зображе�
 
 ## 13. Контакти
 
-hlavnatanya@gmail.com
+vatterb0768@gmail.com
 
 ---
 
