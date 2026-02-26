@@ -177,7 +177,7 @@ vatterb0768@gmail.com
 
 The Service is operated by:
 
-FOP Glavna Tetiana  
+FOP  
 Registered in Ukraine  
 Contact email: vatterb0768@gmail.com
 Payments are processed through Telegram and its payment systems.
