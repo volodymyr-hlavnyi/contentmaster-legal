@@ -174,7 +174,7 @@ hlavnatanya@gmail.com
 
 Der Service wird betrieben von:
 
-FOP Hlavna Tetiana  
+FOP Glavna Tetiana  
 Registriert in der Ukraine  
 Kontakt: hlavnatanya@gmail.com  
 Zahlungen werden über Telegram und dessen Zahlungssysteme abgewickelt.
