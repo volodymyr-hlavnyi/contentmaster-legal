@@ -1,10 +1,14 @@
 [Datenschutzerklärung](./index.md)
 
+🌐 Sprachen:
+[English](./terms.md) | [Русский](./terms_ru.md) | [Українська](./terms_uk.md) | [Deutsch](./terms_de.md)
+
 # Nutzungsbedingungen — @KontentMasterBot
 
 **Gültig ab:** 26/02/2026
 
-Diese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung des Telegram-Bots @KontentMasterBot („Service“), betrieben von ContentMaster („wir“, „uns“, „unser“).
+Diese Nutzungsbedingungen („Bedingungen“) regeln die Nutzung des Telegram-Bots @KontentMasterBot („Service“), betrieben
+von ContentMaster („wir“, „uns“, „unser“).
 
 Durch die Nutzung des Service stimmen Sie diesen Bedingungen zu.
 
@@ -14,7 +18,8 @@ Durch die Nutzung des Service stimmen Sie diesen Bedingungen zu.
 
 ContentMaster bietet KI-gestützte Bildvisualisierungsdienste an.
 
-Nutzer können Bilder hochladen und stilisierte visuelle Ergebnisse erhalten, die mithilfe von Technologien der künstlichen Intelligenz erzeugt werden.
+Nutzer können Bilder hochladen und stilisierte visuelle Ergebnisse erhalten, die mithilfe von Technologien der
+künstlichen Intelligenz erzeugt werden.
 
 Der Service kann kostenlose und kostenpflichtige Funktionen enthalten.
 
@@ -95,7 +100,8 @@ Im Falle technischer Fehler können Credits wiederhergestellt werden.
 
 Sie behalten die Rechte an den von Ihnen hochgeladenen Inhalten.
 
-Vorbehaltlich der Einhaltung dieser Bedingungen dürfen Sie generierte Inhalte für rechtmäßige persönliche und kommerzielle Zwecke nutzen.
+Vorbehaltlich der Einhaltung dieser Bedingungen dürfen Sie generierte Inhalte für rechtmäßige persönliche und
+kommerzielle Zwecke nutzen.
 
 Wir garantieren nicht, dass generierte Inhalte keine Rechte Dritter verletzen.
 
@@ -117,7 +123,8 @@ Wir haften nicht für:
 
 Der Service wird „wie besehen“ ohne Garantien bereitgestellt.
 
-Unsere Gesamthaftung ist auf den Betrag begrenzt, den Sie in den letzten drei Monaten vor dem Anspruch an den Service gezahlt haben.
+Unsere Gesamthaftung ist auf den Betrag begrenzt, den Sie in den letzten drei Monaten vor dem Anspruch an den Service
+gezahlt haben.
 
 ---
 
@@ -135,13 +142,15 @@ Sie können die Nutzung jederzeit einstellen.
 
 ## 10. Höhere Gewalt (Force Majeure)
 
-Wir haften nicht für Verzögerungen oder Ausfälle aufgrund von Umständen außerhalb unserer angemessenen Kontrolle, einschließlich Internetausfällen, Plattformstörungen, behördlichen Maßnahmen oder Ausfällen von Drittanbietern.
+Wir haften nicht für Verzögerungen oder Ausfälle aufgrund von Umständen außerhalb unserer angemessenen Kontrolle,
+einschließlich Internetausfällen, Plattformstörungen, behördlichen Maßnahmen oder Ausfällen von Drittanbietern.
 
 ---
 
 ## 11. Anwendbares Recht
 
-Diese Bedingungen unterliegen dem Recht der Ukraine, sofern nicht zwingende internationale Vorschriften etwas anderes vorschreiben.
+Diese Bedingungen unterliegen dem Recht der Ukraine, sofern nicht zwingende internationale Vorschriften etwas anderes
+vorschreiben.
 
 ---
 
@@ -174,4 +183,5 @@ Zahlungen werden über Telegram und dessen Zahlungssysteme abgewickelt.
 
 ## 15. Keine Partnerschaft
 
-Nichts in diesen Bedingungen begründet eine Partnerschaft, ein Joint Venture oder ein Agenturverhältnis zwischen Nutzern und dem Service.
+Nichts in diesen Bedingungen begründet eine Partnerschaft, ein Joint Venture oder ein Agenturverhältnis zwischen Nutzern
+und dem Service.

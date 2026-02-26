@@ -1,5 +1,8 @@
 [Privacy Policy](./index.md)
 
+🌐 Available languages:
+[English](./terms.md) | [Русский](./terms_ru.md) | [Українська](./terms_uk.md) | [Deutsch](./terms_de.md)
+
 # Terms of Service — @KontentMasterBot
 
 **Effective date:** 26/02/2026
@@ -142,7 +145,9 @@ You may stop using the Service at any time.
 
 ## 10. Force Majeure
 
-We shall not be liable for any failure or delay in performance caused by circumstances beyond our reasonable control, including but not limited to internet outages, platform interruptions, governmental actions, force majeure events, or third-party service failures.
+We shall not be liable for any failure or delay in performance caused by circumstances beyond our reasonable control,
+including but not limited to internet outages, platform interruptions, governmental actions, force majeure events, or
+third-party service failures.
 
 ---
 

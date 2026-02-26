@@ -1,5 +1,8 @@
 [Политика конфиденциальности](./index.md)
 
+🌐 Языки:
+[English](./terms.md) | [Русский](./terms_ru.md) | [Українська](./terms_uk.md) | [Deutsch](./terms_de.md)
+
 # Условия использования — @KontentMasterBot
 
 **Дата вступления в силу:** 26/02/2026
